@@ -64,7 +64,7 @@ Here are a few boring landings:
 
 NEXT JS project - Exchange Crypto Fiat Webapp - (frontend NextUI, tailwind, form validation with formik + yup).
 Here I'm trying auth with clerk, auth with firebase, xata database, firebase realtime database:
-- **Repository**: [View Code]([https://github.com/aliliolek/exchange-app-02])
+- **Repository**: [View Code](https://github.com/aliliolek/exchange-app-02)
 
 
 
