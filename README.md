@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Oleks
 
-<h3 align="center">Junior Frontend Developer from Ukraine</h3>
+<h3 align="left">Junior Frontend Developer from Ukraine</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
